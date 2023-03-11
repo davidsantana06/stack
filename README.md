@@ -1,6 +1,6 @@
 # Stack
 
-### 1. Resumo
+### 1. Sobre
 <div align="justify">
   (PT-BR) Stack, como o nome sugere, é uma estrutura de dados com as especificidades de uma pilha. Sendo assim, é possível adicionar elementos, consultar o topo e
   desempilhar o elemento presente no topo. O código foi construído com base na fila, padrão no Python, com a adição de restrições ao seu funcionamento. Ademais,
