@@ -14,6 +14,6 @@
 ### <br>2. Como rodar a aplicação
 Para executar a aplicação é necessário, ordenamente:
 1. Instalar o Python (neste caso, optou-se pela versão 3.11);
-2. Baixar os arquivos presentes neste repositório);
+2. Baixar os arquivos presentes neste repositório;
 3. Executar o arquivo "main.py";
 4. Após isso, basta iniciar sua interação com o terminal.
